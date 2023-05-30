@@ -1,0 +1,33 @@
+
+Desafio Phishing no Kali Linux
+
+Executado em container docker
+
+1:
+Instalação dos pacotes: git, python
+
+2:
+Instalação do SEToolKit
+fazer clone do repositório no git
+
+3:
+setoolkit
+
+4:
+1) Social-Engineering Attacks
+
+5:
+2) Website Attack Vectors
+
+6:
+3) Credential Harvester Attack Method
+
+7:
+2) Site Cloner
+
+8:
+Verificar IP da maquina
+
+9:
+Clonar site http://www.facebook.com
+
